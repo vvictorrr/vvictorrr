@@ -16,9 +16,11 @@ I’m a second-year student at Northeastern University, majoring in Data Science
 </p>
 
 ## Interests
-
-## Experience
+- **Data Science & AI** - applying machine learning and statistical methods to extract insight from complex data.
+- **Robotics & Autonomous Systems** - designing systems that integrate perception, control, and planning in real-world environments.
+- **Scientific Computing** - using numerical methods and simulation to model physical and material systems.
+- **Cybersecurity & AI Safety** - studying the reliability, robustness, and security of intelligent systems.
 
 ## Contact Me!
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/victor-li-341320384/
+- Email: li.victor@northeastern.edu
