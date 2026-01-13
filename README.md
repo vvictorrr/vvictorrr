@@ -22,5 +22,5 @@ I’m a second-year student at Northeastern University, majoring in Data Science
 - **Cybersecurity & AI Safety** - studying the reliability, robustness, and security of intelligent systems.
 
 ## Contact Me!
-- LinkedIn: linkedin.com/in/victor-li-341320384/
+- LinkedIn: [linkedin.com/in/victor-li-341320384](https://www.linkedin.com/in/victor-li-341320384)
 - Email: li.victor@northeastern.edu
