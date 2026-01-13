@@ -1,5 +1,5 @@
 ## Hi, I'm Victor Li!
-I’m a second-year student at Northeastern University, majoring in Data Science with minors in Mathematics and Physics, who likes building things that mix code, math, and creativity. From machine learning models and web apps to robots and electronics, I enjoy working on problems where you get to understand how something works and then make it better. Outside of tech, I spend a lot of time sewing, making jewelry, and making art, which shapes how I think about design and problem-solving.
+I’m a second-year student at Northeastern University, majoring in Data Science with minors in Mathematics and Physics, who likes building things that mix code, math, and creativity. From machine learning models and web apps to robots and electronics, I enjoy working on problems where you get to understand how something works and then make it better. Outside of tech, I practice sewing, jewelry making, and making art, which shapes how I think about design and problem-solving.
 
 ## Technologies and Tools
 <p align="left">
